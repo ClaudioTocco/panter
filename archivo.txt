@@ -1,0 +1,4 @@
+archivo.txt para diff
+es la version original
+esta es la nueva version
+modificado archivo
